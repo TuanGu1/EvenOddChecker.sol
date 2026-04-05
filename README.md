@@ -8,3 +8,4 @@ contract EvenOddChecker {
         return number % 2 == 0;
     }
 }
+Improve error handling
