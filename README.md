@@ -9,3 +9,4 @@ contract EvenOddChecker {
     }
 }
 Improve error handling
+Update comments and docs
