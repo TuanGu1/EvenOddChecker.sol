@@ -10,3 +10,4 @@ contract EvenOddChecker {
 }
 Improve error handling
 Update comments and docs
+Fix typo in code
