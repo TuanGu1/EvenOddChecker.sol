@@ -14,3 +14,4 @@ Fix typo in code
 Add validation check
 Clean up codebase
 Optimize storage usage
+Clean redundant code
